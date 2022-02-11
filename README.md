@@ -1,6 +1,8 @@
 | Supported Targets | ESP32 |
 | ----------------- | ----- |
 
+### Experiment - trying to get BT SPP and a BLE running at the same time
+**** THIS CODE DOES NOT WORK ****
 
 
 ### Configure the project
